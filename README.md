@@ -1,6 +1,6 @@
 #Zepto Retail Analytics using SQL & Power BI
 
-# Zepto Retail SQL Analytics Project
+# Zepto Retail SQL Analytics Project🛒
 
 ## Project Overview
 This is a complete, real-world data analytics project based on an e-commerce inventory dataset scraped from Zepto — one of India’s fastest-growing quick-commerce platforms. The project simulates real analyst workflows, starting from raw data import and cleaning to SQL-based business analysis and interactive dashboard creation.
